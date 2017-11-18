@@ -1,0 +1,11 @@
+/*
+Theme Name: sydney-child
+Description: Theme enfant de sydney
+Author: Alexis Jolivel
+Author URI: https://www.alexis-jolivel.com
+Template: sydney
+*/
+
+body {
+    display: none !important;
+}
